@@ -4,7 +4,7 @@
 علاوه بر این پروژه ماشین حساب و کار با serial  هم هست و همچنین کار با serialplotter  که نمودار سینوسی و کسینوسی رسم می کند .
 و کلی پروژه دیگر که در این جلسات زده شده است .
 
-#تاس الکترونیکی 
+# تاس الکترونیکی 
 <p align="center">
 <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/8_Electronic_dice.jpeg">
 </p>
