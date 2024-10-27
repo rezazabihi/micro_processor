@@ -5,17 +5,20 @@
 #Sinos_cosinos
 و کلی پروژه دیگر که در این جلسات زده شده است .
 
-# تاس الکترونیکی Electronic_dice#
+# تاس الکترونیکی 
+# Electronic_dice
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/Electronic_dice.jpeg" target="_blank">
         <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/8_Electronic_dice.jpeg" alt="Electronic Dice" title="rezazabihi" style="border: none;">
     </a>
 </p>
-# پوش باتن 
-#low to hight led_by 5volt 
+
+#  پوش باتن 
+# low to hight led_by 5volt 
+
 <p align="center">
     <a href="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/low to hight led_by 5volt.jpeg" target="_blank">
-        <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/blob/main/Photo/6_Pushbutton_LED_ON_OFF.jpeg" alt="Electronic Dice" title="rezazabihi" style="border: none;">
+        <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/6_Pushbutton_LED_ON_OFF.jpeg" alt="Electronic Dice" title="rezazabihi" style="border: none;">
     </a>
 </p>
