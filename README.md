@@ -13,3 +13,6 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/8_Electronic_dice.jpeg" alt="Electronic Dice">
 </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/8_Electronic_dice.jpeg" alt="Electronic Dice">
+</p>
