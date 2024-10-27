@@ -5,8 +5,10 @@
 <p align="center">
     <img src="https://github.com/rezazabihi/micro_processor/blob/main/micro_processor/Untitled%20Sketch%202_bb.jpg" alt="micro"  title="rezazabihi">
 </p>
-علاوه بر این پروژه ماشین حساب و کار با serial  هم هست و همچنین کار با serialplotter  که نمودار سینوسی و کسینوسی رسم می کند .
+
+ کار با serialplotter  که نمودار سینوسی و کسینوسی رسم می کند .
 # sinos && cosinos in serial plotter
+
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/sinos && cosinos in serial plotter.jpeg" target="_blank">
