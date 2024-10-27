@@ -10,3 +10,6 @@
     <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/8_Electronic_dice.jpeg">
   </div>
 </p>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/8_Electronic_dice.jpeg" alt="Electronic Dice">
+</p>
