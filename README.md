@@ -6,5 +6,7 @@
 
 # تاس الکترونیکی 
 <p align="center">
+  <div style="pointer-events: none;">
 <img src="https://github.com/mohsenkmt/MicroProcessor/blob/main/Photo/8_Electronic_dice.jpeg">
+  </div>
 </p>
