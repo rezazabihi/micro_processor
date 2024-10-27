@@ -1,7 +1,9 @@
 # micro_processor        
-پروژه ها داخل پوشه قرار دارد که شکل بستن مدار هم عکسش آپلود شده است که در عکس یک زمین به پایین مدار بسته شده به همراه دو مقاومت و دو led که در عکس سیم کشی ها و نحوه بستن کاملا مشخص هست . 
-
-
+پروژه ها داخل پوشه قرار دارد.
+ در عکس یک زمین به پایین مدار بسته شده به همراه دو مقاومت و دو led که در عکس سیم کشی ها و نحوه بستن کاملا مشخص هست . 
+<p align="center">
+    <img src="https://github.com/rezazabihi/micro_processor/blob/main/micro_processor/Untitled%20Sketch%202_bb.jpg" alt="micro"  title="rezazabihi">
+</p>
 علاوه بر این پروژه ماشین حساب و کار با serial  هم هست و همچنین کار با serialplotter  که نمودار سینوسی و کسینوسی رسم می کند .
 # sinos && cosinos in serial plotter
 
