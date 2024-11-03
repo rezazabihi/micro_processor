@@ -49,3 +49,11 @@
         <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/9_Potentiometer_LED.jpg" alt="Potentiometer_LED_voltag" title="rezazabihi" style="border: none;">
     </a>
 </p>
+
+
+
+<p align="center">
+    <a href="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/Potentiometer_LED_voltag.jpeg" target="_blank">
+        <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/12LCDprinthello.jpeg" alt="Potentiometer_LED_voltag" title="rezazabihi" style="border: none;">
+    </a>
+</p>
