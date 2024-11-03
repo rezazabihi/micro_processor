@@ -51,9 +51,26 @@
 </p>
 
 
+# lcdprint_helloworld
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/Potentiometer_LED_voltag.jpeg" target="_blank">
-        <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/12LCDprinthello.jpeg" alt="Potentiometer_LED_voltag" title="rezazabihi" style="border: none;">
+    <a href="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/lcdprint_helloworld.jpeg" target="_blank">
+        <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/12LCDprinthello.jpeg" alt="lcdprint_helloworld" title="rezazabihi" style="border: none;">
+    </a>
+</p>
+
+# Show Character
+
+<p align="center">
+    <a href="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/Show Character.jpeg" target="_blank">
+        <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/13_LCD_Show_Character.png" alt="Show Character" title="rezazabihi" style="border: none;">
+    </a>
+</p>
+
+# UltraSonic
+
+<p align="center">
+    <a href="https://raw.githubusercontent.com/rezazabihi/MicroProcessor/main/Photo/UltraSonic.jpeg" target="_blank">
+        <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/14UltraSonic.jpeg" alt="UltraSonic" title="rezazabihi" style="border: none;">
     </a>
 </p>
