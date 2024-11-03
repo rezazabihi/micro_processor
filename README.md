@@ -77,3 +77,6 @@
         <img src="https://raw.githubusercontent.com/mohsenkmt/MicroProcessor/main/Photo/14UltraSonic.jpeg" alt="UltraSonic" title="rezazabihi" style="border: none;">
     </a>
 </p>
+
+# sensor_dandehaqab
+وسایل مورد نییاز را تهیه می کنیم . طبق تصویر سیم کشی ها را انجام داده و آن را به برد آردینو متصل می کنیم ، سپس کدی که در پوشه  sensor_dandehaqab قرار دارد را در نرم افزار  Arduino IDE پروگرم می کنیم . بعد از پروگرام کردن کد اگر اتصالات به درستی متصل شده باشند و قطعات مشکلی نداشته باشند باید در حالت فاصله 30 سانتی متر کمترین روشنایی و در حالت 4 سانتی متر led بیشترین روشنایی را داشته باشد .
